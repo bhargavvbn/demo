@@ -8,3 +8,4 @@ def feb(n):
 
 
 feb(10)
+feb(50)
