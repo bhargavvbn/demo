@@ -6,6 +6,5 @@ def feb(n):
         a, b = b, c
         print(c)
 
-
-feb(10)
-feb(50)
+lst = [10,20,50,60]
+fib(lst)
